@@ -1,4 +1,4 @@
-# Genetic Algorithm Solver in C++
+# Genetic Algorithm Solver
 
 ## Overview
 This repository contains a C++ implementation of a Genetic Algorithm (GA) designed to solve various optimization problems, including but not limited to the Knapsack Problem and the Traveling Salesman Problem (TSP). Genetic Algorithms are inspired by the process of natural selection and are effective for finding approximate solutions to complex problems.
